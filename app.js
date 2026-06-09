@@ -1,13 +1,3 @@
-// ==UserScript==
-// @name         Admin bypass
-// @namespace    http://tampermonkey.net
-// @version      2026-06-08
-// @description  Belajar arsitektur web
-// @author       Anda
-// @match        http://103.130.165.123:3000/
-// @icon         https://google.com
-// @grant        none
-// ==/UserScript==
 const API_BASE = '/api';
 
 function resolveImageUrl(url) {
