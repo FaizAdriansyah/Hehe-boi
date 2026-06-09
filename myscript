@@ -1,5 +1,5 @@
 // CBT-SD Single Page Application (SPA) Controller
-alert("SYSTEM TAKEN OVER")
+// JS SYSTEM HAS BEEN MODIFIED
 const API_BASE = '/api';
 
 function resolveImageUrl(url) {
